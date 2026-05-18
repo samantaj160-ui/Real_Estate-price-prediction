@@ -72,6 +72,7 @@ To make the application accessible online, deployment platforms are required suc
 - Hugging Face Spaces
 - Render
 - Railway
+- link for check this("https://huggingface.co/spaces/jit99/Real_Estate-price")
 
 ---
 
